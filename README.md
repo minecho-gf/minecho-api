@@ -1,4 +1,4 @@
-#### 欢迎使用米可智能 API | [English Version](https://github.com/minecho-gf/minecho-api/blob/main/README_en.md)
+#### 欢迎使用米可智能 API ｜ [English Version](https://github.com/minecho-gf/minecho-api/blob/main/README_en.md)
 
 您可以使用该 API 调用[米可智能官网](https://minecho.com)所提供的功能服务，高效便捷地接入到您的产品流程和系统服务中。
 

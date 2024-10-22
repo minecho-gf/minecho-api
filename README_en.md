@@ -1,4 +1,4 @@
-#### Welcome to Minecho API | | [中文版](https://github.com/minecho-gf/minecho-api/blob/main/README.md)
+#### Welcome to Minecho API   ｜   [中文版](https://github.com/minecho-gf/minecho-api/blob/main/README.md)
 
 You can use this API to call the services provided by [the official website of Minecho](https://minecho.com/), and efficiently and conveniently access to your product processes and system services.
 
